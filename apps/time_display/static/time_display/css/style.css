@@ -1,5 +1,5 @@
 .container{
-    background-color: #009AC7;
+    background-color: #DEE0EC;
     font-family: Arial, Helvetica, sans-serif;
     margin: auto;
     width: 50%;
@@ -19,5 +19,5 @@ h1{
     text-shadow: 2px 2px #3C4C5B;
 }
 .jumbotron{
-    background-color: #009AC7;
+    background-color: #24292E;
 }
